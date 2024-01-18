@@ -1,8 +1,16 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: The journey begins :sparkles:.
+date: 2024-01-17 10:10:00-0000
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+WIP
+
+---
+
+WIP
+
+---
+
