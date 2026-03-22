@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Typography styles: Headings, text, links, tables, blockquotes
  ******************************************************************************/
-
+ 
 @use "variables" as v;
 
 p,
@@ -17,6 +17,27 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+body {
+  font-family: "STIX Two Text", "Libertinus Serif", "TeX Gyre Termes", "Times New Roman", Times, serif;
+  font-size: 17px;
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Make it look like a paper */
+p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Improve headings (JMLR-style hierarchy) */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  line-height: 1.3;
 }
 
 hr {
