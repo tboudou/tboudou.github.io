@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-06-10'
 papers:
   6CXRuKsAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Atrial tachycardia analysis module providing evolving blueprint of tachycardia events
     year: '2024'
   6CXRuKsAAAAJ:u-x6o8ySG0sC:
-    citations: 111
+    citations: 112
     title: Dynamic functional connectivity between order and randomness and its evolution across the human adult lifespan
     year: '2020'
   6CXRuKsAAAAJ:u5HHmVD_uO8C:
@@ -30,6 +30,6 @@ papers:
     title: Far-Field Intracardiac Electrograms Removal Enables Highly Reliable Automatic Cycle Length Estimation During Atrial Arrhythmia
     year: '2022'
   6CXRuKsAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: Byzantine Failures Harm the Generalization of Robust Distributed Learning Algorithms More Than Data Poisoning
     year: '2025'
