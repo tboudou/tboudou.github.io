@@ -37,8 +37,7 @@ social: false # includes social icons at the bottom of the page
 
 scholar:
   style: apa
-  sort_by: rank
-  order: ascending
+  sort_by: none
   group_by: none
 ---
 
