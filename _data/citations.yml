@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-05'
 papers:
   6CXRuKsAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Atrial tachycardia analysis module providing evolving blueprint of tachycardia events
     year: '2024'
   6CXRuKsAAAAJ:u-x6o8ySG0sC:
-    citations: 112
+    citations: 116
     title: Dynamic functional connectivity between order and randomness and its evolution across the human adult lifespan
     year: '2020'
   6CXRuKsAAAAJ:u5HHmVD_uO8C:
@@ -43,5 +43,5 @@ papers:
     year: '2022'
   6CXRuKsAAAAJ:zYLM7Y9cAGgC:
     citations: 3
-    title: Byzantine Failures Harm the Generalization of Robust Distributed Learning Algorithms More Than Data Poisoning
+    title: Byzantine failures harm the generalization of robust distributed learning algorithms more than data poisoning
     year: '2025'
